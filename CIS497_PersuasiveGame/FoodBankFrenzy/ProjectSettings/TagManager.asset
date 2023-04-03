@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RedFood
+  - Conveyer
+  - BlueFood
+  - GreenFood
+  - YellowFood
+  - Conveyor
+  - FxTemporaire
+  - Item
+  - Level
+  - BoxManager
+  - Crossfader
+  - MisclickDestroyer
+  - TutorialText
+  - Face
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Can
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Boxes
+    uniqueID: 3754069765
+    locked: 0
+  - name: Cans
+    uniqueID: 3931370119
+    locked: 0
